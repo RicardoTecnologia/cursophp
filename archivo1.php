@@ -1,4 +1,7 @@
 <?php
-echo "Ricardo Cruz Cruz </br>";
-echo '3er Cuatrimestre';
+echo "Ricardo Cruz Cruz";
+
+echo "<br>";
+
+echo "3er cuatrimestre";
 ?>
